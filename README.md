@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, my name is Jan Minar
 
-Check out [Comic strip generator](https://github.com/rdancer/comix-generator-demo) &mdash; demo of OpenAI *DALL·E 3* and *GPT-4 Turbo*, and [AI voice call demo](https://github.com/rdancer/ai-voice-call-demo) &mdash; OpenAI *Whisper v3* and *TTS*.
+Check out demos of the November 2023 new releases from Openai: [Comic strip generator demo](https://github.com/rdancer/comix-generator-demo) &mdash; *DALL·E 3* (images), *GPT-4 Turbo*, and [AI voice call demo](https://github.com/rdancer/ai-voice-call-demo) &mdash; *Whisper v3* (speech to text) and *TTS* (text to speech).
 
 I am the author of [`brute-lee`](https://github.com/rdancer/brute-lee), a bot 🤖 that solves [LeetCode](https://leetcode.com/problemset/all/) (all the problems in all the languages).
 
