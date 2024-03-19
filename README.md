@@ -1,5 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, my name is Jan Minar
 
+Missing feature of Arbor.sc: GPT-4-powered paragraph restoration, and e-mail forwarding: [*Arbor Message Forwarder*](https://github.com/rdancer/arbor-message-forwarder)
+
 <!--
 My latest demo is [Blockchain Voting](https://github.com/rdancer/blockchain-voting-demo) &mdash; *Solidity*, *Ethereum*, *Truffle*, *Remix*
 
