@@ -17,7 +17,7 @@ If you like Tetris and artificial intelligence, you may like [*Tetris 2023*](htt
 
 I wrote the first public implementation of the [*Fully Homomorphic Encryption*](https://github.com/rdancer/fhe) scheme back when I was an undergraduate.
 
-[*Vulnerable Vim*](https://vulnerablevim.rdancer.org/) &mdash; a collection of my security advisories for the *Vim* editor.
+[*Vulnerable Vim*](https://github.com/rdancer/vulnerablevim) &mdash; a collection of my security advisories for the *Vim* editor.
 
 [![Linkedin Badge](https://img.shields.io/badge/-rdancer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdancer/)](https://www.linkedin.com/in/rdancer/)
 [![Gmail Badge](https://img.shields.io/badge/-rdancer@rdancer.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rdancer@rdancer.org)](mailto:rdancer@rdancer.org?subject=I+like+your+github)
