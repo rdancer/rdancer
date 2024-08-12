@@ -27,5 +27,20 @@ Sorry, but LinkedIn is a shitty, scummy platform, which I don't want to have any
 
 -->
 
+<--
+
+Alternative call for action text:
+
+"Hire Me for Your Project"
+"Request a Custom Solution"
+"Get a Quote for Your Project"
+"Start Your Project with Me"
+"Let's Build Your Idea"
+"Secure My Expertise"
+"Commission My Work"
+"Get a Professional Quote"
+
+-->
+
 [![Upwork](https://img.shields.io/badge/Get%20a%20Professional%20Quote-6FDA44?logo=upwork&logoColor=fff)](https://upwork.com/freelancers/rdancer)
 [![Gmail Badge](https://img.shields.io/badge/-rdancer@rdancer.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rdancer@rdancer.org)](mailto:rdancer@rdancer.org?subject=I+like+your+github)
