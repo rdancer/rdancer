@@ -19,5 +19,13 @@ I wrote the first public implementation of the [*Fully Homomorphic Encryption*](
 
 [*Vulnerable Vim*](https://github.com/rdancer/vulnerablevim) &mdash; a collection of my security advisories for the *Vim* editor.
 
+<!--
+
+Sorry, but LinkedIn is a shitty, scummy platform, which I don't want to have anything to do with
+
 [![Linkedin Badge](https://img.shields.io/badge/-rdancer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdancer/)](https://www.linkedin.com/in/rdancer/)
+
+-->
+
+
 [![Gmail Badge](https://img.shields.io/badge/-rdancer@rdancer.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rdancer@rdancer.org)](mailto:rdancer@rdancer.org?subject=I+like+your+github)
