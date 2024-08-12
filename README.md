@@ -27,7 +27,7 @@ Sorry, but LinkedIn is a shitty, scummy platform, which I don't want to have any
 
 -->
 
-<--
+<!--
 
 Alternative call for action text:
 
