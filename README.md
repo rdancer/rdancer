@@ -1,5 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, my name is Jan Minar
 
+I've been making some cool image generation things, some of which I can share here:
+
+* As of October 2024, [ComfyUI_Florence2SAM2](https://github.com/rdancer/ComfyUI_Florence2SAM2) is the best Florence 2 + SAM 2 image segmentation node for ComfyUI
+
+
 Missing feature of Arbor.sc: GPT-4-powered paragraph restoration, and e-mail forwarding: [*Arbor Message Forwarder*](https://github.com/rdancer/arbor-message-forwarder)
 
 <!--
