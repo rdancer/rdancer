@@ -2,6 +2,7 @@
 
 I've been making some cool image generation things, some of which I can share here:
 
+* [*Tricolor*](https://github.com/rdancer/tricolor) &mdash; Apply tricolor posterization to images with specified colours
 * Adapt SkalskiP's excellent Florence v2 + SAM v2 implememtation as a [ComfyUI_Florence2SAM2](https://github.com/rdancer/ComfyUI_Florence2SAM2) custom node pack
 
 
