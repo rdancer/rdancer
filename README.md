@@ -48,5 +48,11 @@ Alternative call for action text:
 
 -->
 
+<!--
+
+"upon review of your Github profile we noticed that it has your email address" -- Upwork
+
 [![Upwork](https://img.shields.io/badge/Get%20a%20Professional%20Quote-6FDA44?logo=upwork&logoColor=fff)](https://upwork.com/freelancers/rdancer)
 [![Gmail Badge](https://img.shields.io/badge/-rdancer@rdancer.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rdancer@rdancer.org)](mailto:rdancer@rdancer.org?subject=I+like+your+github)
+
+-->
